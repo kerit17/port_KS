@@ -1,0 +1,66 @@
+/*font-family: 'Libre Baskerville', serif;*/
+
+/*sidebar*/
+   .sidebar {
+      width: 25%;
+      height: 100%;
+      position: fixed;
+      left: 0px;
+      border: 25px solid black;
+      background-color: black;
+   }
+
+   .btn {
+      font-size: 150%;
+   }
+
+   .card1 {
+      max-width: 100%;
+      font-family: 'Libre Baskerville', serif;
+      margin-top: 10%;
+   }
+
+
+/*Fixed Items: Jumbotron and Footer*/
+   .jumbotron {
+      margin-bottom: -50px;
+      margin-top: -20px;
+      width: 75%;
+      float: right;
+   }
+
+   .containerFooter {
+      width: 100%;
+      position: absolute;
+      left: 0; right: 0; bottom: 0;
+      background-color: grey;
+   }
+
+
+/*Home*/
+   .card-deck2 {
+      float: right;
+      margin-left: 75px;
+      width: 75%;
+   }
+
+   .cardH {
+      max-width: 100%;
+      font-family: 'Libre Baskerville', serif;
+      margin-top: 15%;
+   }
+
+/*Projects*/
+   .card-deck {
+      clear: both;
+      margin-left: 75px;
+      width: 100%;
+   }
+
+
+   .card2 {
+   	max-width: 33%;
+   	font-family: 'Libre Baskerville', serif;
+   	padding-left: 15px;
+   }
+
