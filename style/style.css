@@ -21,17 +21,15 @@
    }
 
 
-/*Fixed Items: Jumbotron and Footer*/
-   .jumbotron {
-      margin-bottom: -50px;
-      margin-top: -20px;
-      width: 75%;
+/*Fixed Items: Header and Footer*/
+   .page-header {
+      width: 73%;
       float: right;
    }
 
    .containerFooter {
       width: 100%;
-      position: absolute;
+      position: fixed;
       left: 0; right: 0; bottom: 0;
       background-color: grey;
    }
