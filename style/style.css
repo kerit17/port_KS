@@ -23,7 +23,7 @@
 
 /*Fixed Items: Header and Footer*/
    .page-header {
-      width: 73%;
+      width: 75%;
       float: right;
    }
 
@@ -52,7 +52,8 @@
    .card-deck {
       clear: both;
       margin-left: 75px;
-      width: 100%;
+      width: 73%;
+      float: right;
    }
 
 
